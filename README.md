@@ -1,21 +1,25 @@
+<!----------------------------------------------------------------header--------------------------------------------------------------------->
 <div align = "center">
-<h1> Hi there 👋   |    IKMAL IMAN </h1>
-<p><b>Bachelor of Computer Engineering</b>
+<h1> Hello 👋   |    IKMAL IMAN </h1>
+<p><b>Bachelor of Computer Engineering Student</b>
 <p><b>3rd Year 1st Sem</b>
-
-
 <p></p>
 
-<!--Banner-->
+<!----------------------------------------------------------------Banner--------------------------------------------------------------------->
 <img src="https://github.com/user-attachments/assets/51f90bd9-7eb2-407d-b672-a62306653c87" alt="banner" style="width:1000px">
 
 
+
+
+
+
+<!--------------------------------------------------------------Description------------------------------------------------------------------>
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 <p></p>
 <h2><b>🔧 Skills & Technologies:</b></h2>
-<p>Language: C/C++, java, HTML, MATLAB, Assembly</p>
-<p>Tools: Github, Visual Studio Code, Keil Uvision </p>
-<p>Speciality: IoT system, Embedded System, Cloud Computing(AWS)</p>
+<p>Language: C/C++, java, HTML, MATLAB, Assembly, ...</p>
+<p>Tools: Github, Visual Studio Code, Keil Uvision, ... </p>
+<p>Speciality: IoT system, Embedded System, Cloud Computing(AWS), Web developer, ... </p>
 
 <img src="https://github.com/user-attachments/assets/7421c0fe-7ae6-411c-9fb7-8eb39132f440" alt="C language" style="width:50px">
 &nbsp;
