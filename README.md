@@ -2,7 +2,9 @@
 
 ### My name is Ikmal Iman
 #### I am a Bachelor of Computer Engineering student at University
-![I am a Computer Engineering student ](https://images.app.goo.gl/YVqq2a6BvqjLdQ718)
+
+![banner](https://github.com/user-attachments/assets/df366869-d3bf-4daa-a006-3d124612451b)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
