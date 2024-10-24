@@ -17,9 +17,9 @@
 I made this profile to store and showcase my personal and academic projects. Github is where I organize my codes, ideas and innovations.
 <p></p>
 <h2><b>🔧 Skills & Technologies:</b></h2>
-<p>Language: C/C++, java, HTML, MATLAB, Assembly, ...</p>
-<p>Tools: Github, Visual Studio Code, Keil Uvision, ... </p>
-<p>Speciality: IoT system, Embedded System, Cloud Computing(AWS), Web developer, ... </p>
+<p><b>Language:</b> <i>C/C++, java, HTML, MATLAB, Assembly, ...</i></p>
+<p><b>Tools:</b> <i>Github, Visual Studio Code, Keil Uvision, ...</i> </p>
+<p><b>Speciality:</b> <i>IoT system, Embedded System, Cloud Computing(AWS), Web developer, ...</i> </p>
 
 <img src="https://github.com/user-attachments/assets/7421c0fe-7ae6-411c-9fb7-8eb39132f440" alt="C language" style="width:50px">
 &nbsp;
