@@ -28,6 +28,12 @@ I made this profile to store and showcase my personal and academic projects. Git
 <img src="https://github.com/user-attachments/assets/30c39eef-984a-44d1-bb19-182249d48ad9" alt="Java language" style="width:55px">
 &nbsp;
 <img src="https://github.com/user-attachments/assets/0267c569-2e24-473e-af97-107004dc57c2" alt="html" style="width:50px">
+&nbsp;
+<img src="https://github.com/user-attachments/assets/dd26049a-3ca5-484d-8f65-4dd391098b55" alt="Keil" style="width:120px"> 
+&nbsp;
+<img src="https://github.com/user-attachments/assets/6ade911f-f6d9-41af-93ef-d7912ba17012" alt="matlab" style="width:50px">
+
+
 
 
 
