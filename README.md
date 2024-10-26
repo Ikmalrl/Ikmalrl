@@ -31,21 +31,16 @@ I made this profile to store and showcase my personal and academic projects. Git
 &nbsp;
 <img src="https://github.com/user-attachments/assets/0267c569-2e24-473e-af97-107004dc57c2" alt="html" style="width:40px">
 &nbsp;
+<img src="https://github.com/user-attachments/assets/df3921d7-3f28-437d-a6f1-4a3ec4629c3c" alt="TypeScript language" style="width:40px">
+&nbsp;
 <img src="https://github.com/user-attachments/assets/dd26049a-3ca5-484d-8f65-4dd391098b55" alt="Keil" style="width:110px"> 
 &nbsp;
 <img src="https://github.com/user-attachments/assets/6ade911f-f6d9-41af-93ef-d7912ba17012" alt="matlab" style="width:40px">
-
-
-
-
-
-
-
-
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ikmalrl)  -->
 <p></p>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ikmalrl)  
 </div>
+
 
