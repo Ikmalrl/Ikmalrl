@@ -21,17 +21,19 @@ I made this profile to store and showcase my personal and academic projects. Git
 <p><b>Tools:</b> <i>Github, Visual Studio Code, Keil Uvision, ...</i> </p>
 <p><b>Speciality:</b> <i>IoT system, Embedded System, Cloud Computing(AWS), Web developer, ...</i> </p>
 
-<img src="https://github.com/user-attachments/assets/7421c0fe-7ae6-411c-9fb7-8eb39132f440" alt="C language" style="width:50px">
+<img src="https://github.com/user-attachments/assets/7421c0fe-7ae6-411c-9fb7-8eb39132f440" alt="C language" style="width:40px">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/cb50332c-dbdb-4a4c-831b-e0491a2ab48d" alt="C++ language" style="width:40px">
+<img src="https://github.com/user-attachments/assets/cb50332c-dbdb-4a4c-831b-e0491a2ab48d" alt="C++ language" style="width:30px">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/30c39eef-984a-44d1-bb19-182249d48ad9" alt="Java language" style="width:55px">
+<img src="https://github.com/user-attachments/assets/30c39eef-984a-44d1-bb19-182249d48ad9" alt="Java language" style="width:45px">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/0267c569-2e24-473e-af97-107004dc57c2" alt="html" style="width:50px">
+<img src="https://github.com/user-attachments/assets/7df9fba6-719d-4616-a046-6cec197dc73e" alt="CSS language" style="width:30px">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/dd26049a-3ca5-484d-8f65-4dd391098b55" alt="Keil" style="width:120px"> 
+<img src="https://github.com/user-attachments/assets/0267c569-2e24-473e-af97-107004dc57c2" alt="html" style="width:40px">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/6ade911f-f6d9-41af-93ef-d7912ba17012" alt="matlab" style="width:50px">
+<img src="https://github.com/user-attachments/assets/dd26049a-3ca5-484d-8f65-4dd391098b55" alt="Keil" style="width:110px"> 
+&nbsp;
+<img src="https://github.com/user-attachments/assets/6ade911f-f6d9-41af-93ef-d7912ba17012" alt="matlab" style="width:40px">
 
 
 
